@@ -6,4 +6,4 @@ Public iCalendar feeds for bin collection schedules.
 
 - Ealing Home: https://scriptpilotx.github.io/bin-calendars/ealing-12058663.ics
 
-The `.ics` files are generated from the Raspberry Pi bin calendar project and published as static files for subscription over HTTPS.
+GitHub Pages publishes this repository from the `main` branch `/docs` folder.
