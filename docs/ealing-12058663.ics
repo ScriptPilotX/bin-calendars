@@ -1203,4 +1203,27 @@ SUMMARY:Food Box
 DESCRIPTION:Ealing Home collection: FOOD BOX (FOOD4 Mon) - projected from c
  ollection pattern
 END:VEVENT
+BEGIN:VEVENT
+UID:2dd6bd20fcd94f832536bf5adbb7c0a97393c7b58adc0a7bb4d084843741b686@bin-ca
+ lendars.local
+DTSTAMP:20270927T000000Z
+DTSTART;VALUE=DATE:20270927
+SUMMARY:Black Rubbish Wheelie Bin
+DESCRIPTION:Ealing Home collection: BLACK RUBBISH WHEELIE BIN (NMIXED2 MonF
+ ort1) - projected from collection pattern
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20270926T170000Z
+DESCRIPTION:Put bins out tomorrow: Black Rubbish Wheelie Bin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6256028dad0cdc8be8f65cca1d5c7f03e0e57997f840fd080773670fee0f1dc@bin-ca
+ lendars.local
+DTSTAMP:20270927T000000Z
+DTSTART;VALUE=DATE:20270927
+SUMMARY:Food Box
+DESCRIPTION:Ealing Home collection: FOOD BOX (FOOD4 Mon) - projected from c
+ ollection pattern
+END:VEVENT
 END:VCALENDAR
